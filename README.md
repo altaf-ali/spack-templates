@@ -1,0 +1,2 @@
+# spack-templates
+Spack templates
